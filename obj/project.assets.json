@@ -3387,11 +3387,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Leonardo\\Desktop\\Projetos\\TchePlay\\TchePlay.Api\\TchePlay.Api.csproj",
+      "projectUniqueName": "C:\\Users\\Leonardo\\Desktop\\Projetos\\TchePlay\\Projeto-TchePlay-Back\\TchePlay.Api\\TchePlay.Api.csproj",
       "projectName": "TchePlay.Api",
-      "projectPath": "C:\\Users\\Leonardo\\Desktop\\Projetos\\TchePlay\\TchePlay.Api\\TchePlay.Api.csproj",
+      "projectPath": "C:\\Users\\Leonardo\\Desktop\\Projetos\\TchePlay\\Projeto-TchePlay-Back\\TchePlay.Api\\TchePlay.Api.csproj",
       "packagesPath": "C:\\Users\\Leonardo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Leonardo\\Desktop\\Projetos\\TchePlay\\TchePlay.Api\\obj\\",
+      "outputPath": "C:\\Users\\Leonardo\\Desktop\\Projetos\\TchePlay\\Projeto-TchePlay-Back\\TchePlay.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Leonardo\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -3486,7 +3486,7 @@
       "code": "NU1608",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Versão detectada do pacote fora da restrição de dependência: AutoMapper.Extensions.Microsoft.DependencyInjection 12.0.1 requer AutoMapper (= 12.0.1), mas a versão AutoMapper 15.0.1 foi resolvida.",
+      "message": "Detected package version outside of dependency constraint: AutoMapper.Extensions.Microsoft.DependencyInjection 12.0.1 requires AutoMapper (= 12.0.1) but version AutoMapper 15.0.1 was resolved.",
       "libraryId": "AutoMapper",
       "targetGraphs": [
         "net8.0"

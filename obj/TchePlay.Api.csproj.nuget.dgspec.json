@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Leonardo\\Desktop\\Projetos\\TchePlay\\TchePlay.Api\\TchePlay.Api.csproj": {}
+    "C:\\Users\\Leonardo\\Desktop\\Projetos\\TchePlay\\Projeto-TchePlay-Back\\TchePlay.Api\\TchePlay.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Leonardo\\Desktop\\Projetos\\TchePlay\\TchePlay.Api\\TchePlay.Api.csproj": {
+    "C:\\Users\\Leonardo\\Desktop\\Projetos\\TchePlay\\Projeto-TchePlay-Back\\TchePlay.Api\\TchePlay.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Leonardo\\Desktop\\Projetos\\TchePlay\\TchePlay.Api\\TchePlay.Api.csproj",
+        "projectUniqueName": "C:\\Users\\Leonardo\\Desktop\\Projetos\\TchePlay\\Projeto-TchePlay-Back\\TchePlay.Api\\TchePlay.Api.csproj",
         "projectName": "TchePlay.Api",
-        "projectPath": "C:\\Users\\Leonardo\\Desktop\\Projetos\\TchePlay\\TchePlay.Api\\TchePlay.Api.csproj",
+        "projectPath": "C:\\Users\\Leonardo\\Desktop\\Projetos\\TchePlay\\Projeto-TchePlay-Back\\TchePlay.Api\\TchePlay.Api.csproj",
         "packagesPath": "C:\\Users\\Leonardo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Leonardo\\Desktop\\Projetos\\TchePlay\\TchePlay.Api\\obj\\",
+        "outputPath": "C:\\Users\\Leonardo\\Desktop\\Projetos\\TchePlay\\Projeto-TchePlay-Back\\TchePlay.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Leonardo\\AppData\\Roaming\\NuGet\\NuGet.Config"

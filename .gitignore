@@ -1,0 +1,74 @@
+## Ignore arquivos e pastas gerados pelo build
+bin/
+obj/
+out/
+
+## Configurações do Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Arquivos de log e cache
+*.log
+*.tlog
+*.svclog
+*.pdb
+
+## Configurações de ambiente
+*.env
+appsettings.Development.json
+appsettings.Local.json
+
+## Dados sensíveis (chaves de API, connection strings)
+Secrets/
+*.secret.json
+
+## Banco de dados local
+*.db
+*.sqlite
+*.db-shm
+*.db-wal
+
+## Backups e dumps
+*.bak
+*.sql
+
+## Cache e temporários
+*.tmp
+*.temp
+*.cache
+*.DS_Store
+Thumbs.db
+
+## Node/npm (caso Angular fique no mesmo repo)
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+## Diretórios de publicação
+publish/
+dist/
+
+## Testes e cobertura
+TestResults/
+coverage/
+*.coverage
+*.coveragexml
+
+## IDEs alternativas
+.idea/
+*.iml
+
+**/bin/
+**/obj/
+appsettings.json
+.env
+.vscode/
+.idea/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
